@@ -1,1 +1,1 @@
-# AWSGroundTruthUITemplates
+# Amazon SageMaker Ground Truth UI Playground
